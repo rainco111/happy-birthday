@@ -1,11 +1,11 @@
 {
   "greeting": "Hi ya",
   "name": "Rainco",
-  "greetingText": "I really like you !",
-  "wishText": "May the love and hope always be with you! ;)",
+  "greetingText": "I really really like you !",
+  "wishText": "肖宇梁和宇航员天下第一好! ;)",
   "imagePath": "img/lydia2.png",
   "text1": "It's your birthday!!! :D",
-  "textInChatBox": "Happy birthday to you!! Yeee! You must be healthy and halcyon",
+  "textInChatBox": "祝你生日快乐！你一定要身体健康，平平安安ᓚᘏᗢ",
   "sendButtonLabel": "Send",
   "text2": "That's birthday card I was going to do.",
   "text3": "But I think it′s far from enough.",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Now, hope you liked it.",
+  "outroText": "Now, hope you like it.",
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
 }
